@@ -14,3 +14,4 @@ I couldn't get a picture to load using the formatting of a URL from any site, un
 
 ## Screenshot
 Add a screenshot of your rendered component (you can drag and drop it here if using GitHub web interface).
+<img width="1982" height="1320" alt="ReactAssignment" src="https://github.com/user-attachments/assets/a4b6422c-dcce-414f-b371-33038f3ecec0" />
